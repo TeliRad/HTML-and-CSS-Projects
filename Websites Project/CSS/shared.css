@@ -135,8 +135,8 @@ HOME SECTION STYLES
 	width: 100%;
 	display: block;
 	height: auto;
-	padding-top: 175px; /* This is a spacer before the Main title Logo */
-	padding-bottom:  250px; /* This is a spacer after the Main title Logo */
+	padding-top: 20px; /* This is a spacer before the Main title Logo */
+	padding-bottom:  50px; /* This is a spacer after the Main title Logo */
 	color: #fff;
 }
 .head-main {
